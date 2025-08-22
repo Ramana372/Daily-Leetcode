@@ -34,5 +34,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ramana372/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
