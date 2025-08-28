@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Ramana372/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Linked List
 |  |
 | ------- |
