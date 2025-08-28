@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Ramana372/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramana372/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Ramana372/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
