@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramana372/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ramana372/Daily-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ramana372/Daily-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
