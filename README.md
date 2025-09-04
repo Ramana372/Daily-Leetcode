@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
+| [3830-find-closest-person](https://github.com/Ramana372/Daily-Leetcode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
