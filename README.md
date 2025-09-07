@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramana372/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3830-find-closest-person](https://github.com/Ramana372/Daily-Leetcode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
