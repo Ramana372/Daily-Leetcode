@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ramana372/Daily-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Ramana372/Daily-Leetcode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
