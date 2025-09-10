@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramana372/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ramana372/Daily-Leetcode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/1013-fibonacci-number) |
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
