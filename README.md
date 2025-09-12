@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Ramana372/Daily-Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Ramana372/Daily-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Ramana372/Daily-Leetcode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Ramana372/Daily-Leetcode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/1179-game-play-analysis-i) |
 ## Greedy
 |  |
