@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Ramana372/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0125-valid-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramana372/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramana372/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ramana372/Daily-Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ramana372/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
