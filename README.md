@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramana372/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Ramana372/Daily-Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ramana372/Daily-Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ramana372/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramana372/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ramana372/Daily-Leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ramana372/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0409-longest-palindrome) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
 | ------- |
@@ -166,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramana372/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
