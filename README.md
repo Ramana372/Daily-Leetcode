@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Ramana372/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Ramana372/Daily-Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramana372/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Ramana372/Daily-Leetcode/tree/master/0051-n-queens) |
 ## Sorting
 |  |
 | ------- |
