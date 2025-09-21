@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Ramana372/Daily-Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramana372/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Ramana372/Daily-Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ramana372/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0409-longest-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramana372/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramana372/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Game Theory
 |  |
