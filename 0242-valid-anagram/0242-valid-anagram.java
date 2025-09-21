@@ -1,9 +1,10 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-        // if(s.length()!=t.length()){
-        //     return false;
-        // }
+        if(s.length()!=t.length()){
+            return false;
+        }
+
         // char[] a=t.toCharArray();
         // for(int i=0;i<s.length();i++){
         //         boolean b=false;
@@ -20,10 +21,23 @@ class Solution {
         // }
         // return true;
 
-        char[] a=s.toCharArray();
-        char[] b=t.toCharArray();
-        Arrays.sort(a);
-        Arrays.sort(b);
-        return Arrays.equals(a,b);
+        // char[] a=s.toCharArray();
+        // char[] b=t.toCharArray();
+        // Arrays.sort(a);
+        // Arrays.sort(b);
+        // return Arrays.equals(a,b);
+
+        int c[]=new int [26];
+
+        for(int i=0;i<s.length();i++){
+            c[s.charAt(i)-'a']++;
+            c[t.charAt(i)-'a']--;
+        }
+        for(int d:c){
+            if(d!=0){
+                return false;
+            }
+        }
+        return true;
     }
 }
