@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ramana372/Daily-Leetcode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Game Theory
@@ -212,5 +215,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
