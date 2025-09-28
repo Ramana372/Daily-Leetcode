@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/Ramana372/Daily-Leetcode/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1415-students-and-examinations](https://github.com/Ramana372/Daily-Leetcode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ramana372/Daily-Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Greedy
 |  |
