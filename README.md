@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Ramana372/Daily-Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ramana372/Daily-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramana372/Daily-Leetcode/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramana372/Daily-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Ramana372/Daily-Leetcode/tree/master/0455-assign-cookies) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramana372/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -264,4 +266,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramana372/Daily-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
