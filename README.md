@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/Ramana372/Daily-Leetcode/tree/master/1168-duplicate-zeros) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramana372/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramana372/Daily-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramana372/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Ramana372/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0409-longest-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramana372/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramana372/Daily-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramana372/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ramana372/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Ramana372/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Ramana372/Daily-Leetcode/tree/master/0890-lemonade-change) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## String Matching
 |  |
 | ------- |
@@ -232,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Merge Sort
 |  |
 | ------- |
