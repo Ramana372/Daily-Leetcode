@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ramana372/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ramana372/Daily-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramana372/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ramana372/Daily-Leetcode/tree/master/0012-integer-to-roman) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ramana372/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramana372/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ramana372/Daily-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ramana372/Daily-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ramana372/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ramana372/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ramana372/Daily-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ramana372/Daily-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
