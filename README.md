@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramana372/Daily-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramana372/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramana372/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Ramana372/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Ramana372/Daily-Leetcode/tree/master/0792-binary-search) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Ramana372/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -294,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramana372/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Ramana372/Daily-Leetcode/tree/master/0112-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
