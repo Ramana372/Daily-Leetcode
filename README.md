@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramana372/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramana372/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ramana372/Daily-Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramana372/Daily-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Ramana372/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ramana372/Daily-Leetcode/tree/master/0561-array-partition) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Ramana372/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramana372/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Ramana372/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ramana372/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [1168-duplicate-zeros](https://github.com/Ramana372/Daily-Leetcode/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
