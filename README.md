@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Ramana372/Daily-Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramana372/Daily-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramana372/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ramana372/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ramana372/Daily-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Ramana372/Daily-Leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Ramana372/Daily-Leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ramana372/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Ramana372/Daily-Leetcode/tree/master/3830-find-closest-person) |
 ## Linked List
@@ -314,5 +316,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ramana372/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
