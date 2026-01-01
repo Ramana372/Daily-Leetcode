@@ -9,7 +9,6 @@ class Solution {
 
             digits[i]=0;
         }
-
         int r[]=new int[n+1];
         r[0]=1;
         return r;
