@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Ramana372/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Ramana372/Daily-Leetcode/tree/master/0409-longest-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramana372/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramana372/Daily-Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramana372/Daily-Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramana372/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
